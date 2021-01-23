@@ -1,0 +1,86 @@
+.box-container{
+  background-color: #e4e4e4;
+
+  margin-left: 27%;
+  margin-right: 27%;
+
+  margin-bottom: 15%;
+  margin-top: 15%;
+
+  padding-bottom: 40px;
+  padding-right: 5px;
+  padding-left: 5px;
+
+
+  border-radius: 15px;
+
+  
+
+}
+.inputs{
+  margin: 14px;
+
+}
+.inputs input{
+  border-radius: 5px;
+
+}
+.head{
+  font-family: tahoma;
+
+
+}
+.inputs a{
+  margin-top: 10px
+
+}
+.topnav a{
+  padding-bottom: 10px;
+  vertical-align: center;
+
+
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration:none;
+  font-style: normal;
+  font-style: tahoma;
+  font-stretch: semi-expanded;
+  color: black;
+
+
+}
+
+.topnav {
+  margin-top: 10px;
+
+  border-radius: 15px;
+  background: #D3D3D3;
+  padding: 15px;
+
+  height: 40px;
+  width: 380px;
+
+
+}
+.topnav a:hover{
+
+  color: blue;
+
+
+
+  text-decoration-color: red;
+
+}
+html{
+background-color: black;
+
+background-image: url('http://wallpaperheart.com/wp-content/uploads/2018/04/wallpaper-good-background-images.jpg');
+
+}
+.box-container{
+
+
+}
+body {
+    background-image: url('http://wallpaperheart.com/wp-content/uploads/2018/04/wallpaper-good-background-images.jpg');
+}

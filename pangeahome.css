@@ -1,0 +1,84 @@
+.topnav a{
+
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration:none;
+  font-style: normal;
+
+  font-style: tahoma;
+  font-stretch: semi-expanded;
+  color: white;
+
+
+}
+.topnav {
+
+  border-radius: 25px;
+  background: #D3D3D3;
+  padding: 15px;
+
+  height: 7px;width: 300px;
+
+
+}
+.topnav a:hover{
+
+  color: white;
+
+
+
+  text-decoration-color: red;
+
+}
+.head h2{
+  font-style: normal;
+  font-family: tahoma;
+  font-weight: normal;
+  color: white;
+}
+.body{
+  font-family: tahoma;
+  font-weight: 100;
+  font-stretch: semi-expanded;
+  line-height: 35px;
+  color: white;
+  font-weight: bold;
+
+
+
+
+
+  width: 60%;
+}
+.list ol,li{
+  line-height: 40px;
+
+  width: 35%;
+  font-family: tahoma;
+  color: white;
+
+}
+
+
+.list h2{
+  font-size: 50px;
+  
+  font-weight: bold;
+  font-style: tahoma;
+  color: white;
+
+}
+html{
+  background-color: #add8e6
+
+}
+.list{
+  color:white;
+  margin-bottom: 20px;
+  font-weight: bold;
+
+}
+.list a{
+  color:white;
+
+}

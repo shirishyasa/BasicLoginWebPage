@@ -1,0 +1,41 @@
+.header{
+  font-family: tahoma;
+  font-size: 40px;
+
+}
+.container{
+  background-image: image();
+  border-radius: 15px;
+  margin-top: 20px;
+  background-color: grey;
+
+
+
+}
+.container div{
+  margin: 10px;
+
+  border-radius: 15px;
+
+  height: 30%;
+  width: 60%;
+
+  background-color: #e4e4e4;
+
+}
+.messages{
+  font-size: 20px;
+  font-family: tahoma;
+}
+.Reminders{
+  font-family: tahoma;
+
+  font-size: 20px;
+
+}
+html{
+  background-color: black;
+
+
+
+}

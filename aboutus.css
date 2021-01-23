@@ -1,0 +1,19 @@
+.text{
+  font-family: tahoma;
+  width: 70%;
+  align-self: center;
+  border-radius: 10px;
+  padding: 5px;
+
+  background-color: #e4e4e4;
+
+
+}
+.topnav{
+  border-radius: 10px;
+  background-color: #e4e4e4;
+  width: 27%;
+  padding: 10px;
+  font-stretch: expanded;
+
+}
